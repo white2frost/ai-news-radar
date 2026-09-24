@@ -34091,5 +34091,7 @@
   "More details for the formal methods people -- what's happening is Claude is doing something like: 1. Building a model of the program, targeting a tricky state machine or race-prone part of the code 2. Finding counter-...": "对于正式方法人员的更多细节 - 正在发生的事情是 Claude 正在做类似的事情： 1. 构建程序模型，针对棘手的状态机或代码中容易出现竞争的部分 2. 寻找反...",
   "Google DeepMind’s Ayoub says companies can fence AI in, like banks did": "谷歌 DeepMind 的 Ayoub 表示，公司可以像银行一样将人工智能围起来",
   "America’s A.I. Leaders Warn U.N. of Possible Peril Absent a Global Response": "美国的人工智能领导人警告联合国，如果全球不做出反应，可能会带来危险",
-  "Introducing NV-Reason-CT Open 3D CT VLM for Radiologist Chain-of-Thought Reasoning": "为放射科医生推出 NV-Reason-CT 开放式 3D CT VLM 思维链推理"
+  "Introducing NV-Reason-CT Open 3D CT VLM for Radiologist Chain-of-Thought Reasoning": "为放射科医生推出 NV-Reason-CT 开放式 3D CT VLM 思维链推理",
+  "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows": "如何使用 NVIDIA Warp 和 MjWarp 加速机器人模拟和学习工作流程",
+  "LensVLM: Compressing long context as images, expanding only relevant pages": "LensVLM：将长上下文压缩为图像，仅扩展相关页面"
 }
